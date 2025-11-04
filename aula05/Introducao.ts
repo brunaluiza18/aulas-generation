@@ -4,7 +4,7 @@ import readlinesync = require("readline-sync");
 
 let quantidade: number;
 let altura: number; // 7.65
-let tipo: string;  //M
+let tipo: string;  // M
 let resposta: boolean;
 let palavra: string; // "Turma JS 11"
 
